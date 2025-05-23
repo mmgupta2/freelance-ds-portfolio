@@ -47,5 +47,17 @@ Given a dataset of news articles (Factiva-sourced), how can we extract and label
 
 4. **Comparison**
 
-   - Contra
+   - Contrasted LDA topics with BERTopic clusters to evaluate interpretability and granularity.
+   - Plotted topic distributions over time and across articles.
 
+## Results
+
+- LDA produced interpretable themes but required tuning for coherence.
+- BERTopic captured context-rich topics, including nuanced mentions of OPEC, oil prices, and policy impact.
+- Topic labeling was significantly more granular and time-aware with BERTopic.
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook "BERTopic Text analysis.ipynb"
