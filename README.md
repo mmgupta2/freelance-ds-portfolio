@@ -10,6 +10,8 @@ As a freelance data scientist, I specialize in:
 - Real-time dashboards and search systems using Kibana and MongoDB  
 - End-to-end machine learning apps for product and decision support  
 
+> Each project folder contains a detailed `README.md` explaining the business use case, tools, methodology, and results.
+
 ---
 
 ## Projects and Business Relevance
