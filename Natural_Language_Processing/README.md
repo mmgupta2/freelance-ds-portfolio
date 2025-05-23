@@ -56,8 +56,3 @@ Given a dataset of news articles (Factiva-sourced), how can we extract and label
 - BERTopic captured context-rich topics, including nuanced mentions of OPEC, oil prices, and policy impact.
 - Topic labeling was significantly more granular and time-aware with BERTopic.
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook "BERTopic Text analysis.ipynb"
