@@ -49,12 +49,6 @@ Given historical sales data across hundreds of stores in Ecuador, the task is to
 - Model showed strong performance across both high-traffic and low-traffic stores.
 - Interactive plots helped visualize forecast vs. actual trends.
 
-## How to Run
-This notebook uses a helper module and Kaggle competition data.
-- Clone the repo
-- Install required libraries (`requirements.txt`)
-- Run `Time Series (P5).ipynb` in a Jupyter or Kaggle Notebook environment
-
 > Note: Some data paths reference Kaggle directories. Modify for local use if needed.
 
 ## Future Improvements
